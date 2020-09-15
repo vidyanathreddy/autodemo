@@ -1,0 +1,7 @@
+wpinstall.sh
+apache_install.sh
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+test.plan
+
