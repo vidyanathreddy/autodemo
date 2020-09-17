@@ -5,6 +5,7 @@ variable "region" {
   description = "VPC region"
   default     = "us-east-1"
 }
+
 variable "az1" {
   description = "Avaialbility Zone1"
   default     = "us-east-1a"
